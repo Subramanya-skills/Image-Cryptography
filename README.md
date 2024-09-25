@@ -84,20 +84,4 @@
   <img width = 1000 src="Images/11.jpg" /><br>
 </p>
 
-****
-
-### 🌟Stargazers Over Time:
-[![Stargazers repo roster for @akash-rajak/Image-Encryption-Decryption](https://reporoster.com/stars/akash-rajak/Image-Encryption-Decryption)](https://github.com/akash-rajak/Image-Encryption-Decryption/stargazers)
-[![Stargazers over time](https://starchart.cc/akash-rajak/Image-Encryption-Decryption.svg)](https://starchart.cc/akash-rajak/Image-Encryption-Decryption)
-
-****
-
-### 🌟Forkers Over Time:
-[![Forkers repo roster for @akash-rajak/Image-Encryption-Decryption](https://reporoster.com/forks/akash-rajak/Image-Encryption-Decryption)](https://github.com/akash-rajak/Image-Encryption-Decryption/network/members)
-
-****
-
-### 📌Contributors:
-<a href="https://github.com/akash-rajak/Image-Encryption-Decryption/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=akash-rajak/Image-Encryption-Decryption" />
 </a>
